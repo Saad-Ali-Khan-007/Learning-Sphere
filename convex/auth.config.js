@@ -1,8 +1,8 @@
 export default {
-  providers:[
+  providers: [
     {
-      domain:'https://equal-moth-69.clerk.accounts.dev',
-      applicationID:"convex", 
-    }
-  ]
-}
+      domain: "https://select-martin-33.clerk.accounts.dev",
+      applicationID: "convex",
+    },
+  ],
+};
