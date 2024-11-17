@@ -15,25 +15,25 @@
 ## or Step 1.1 - clone repository (variant 2)
 
 ```
-git clone https://github.com/nicitaacom/28_notion-clone
+git clone https://github.com/Saad-Ali-Khan-007/Learning-Sphere.git
 ```
 
 ## Step 1.2 - install deps
 
 ```
-pnpm i
+npm i
 ```
 
 ## Step 1.3 - run project
 
 ```
-pnpm dev
+npm dev
 ```
 
 In new terminal
 
 ```
-pnpx convex dev
+npx convex dev
 ```
 
 <br/>
